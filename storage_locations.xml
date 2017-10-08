@@ -1,0 +1,11 @@
+<markers>
+<marker id="1" name="location1" address="1/28 Macleay Street, Elizabeth Bay, location1" lat="19.09391551" lng="72.83369064" type="restaurant"/>
+<marker id="2" name="location2" address="580 Darling Street, Rozelle, location2" lat="19.07736853" lng="72.84296036" type="restaurant"/>
+<marker id="3" name="location3" address="76 Wilford Street, Newtown, location3" lat="19.08969781" lng="72.87557602" type="bar"/>
+<marker id="4" name="location4" address="Greenwood Plaza, 36 Blue St, location4" lat="19.01311165" lng="72.85394669" type="bar"/>
+<marker id="5" name="location5" address="7A, 2 Huntley Street, Alexandria, location5" lat="19.11338042" lng="72.90956497" type="bar"/>
+<marker id="6" name="location6" address="16 Foster Street, Surry Hills, location6" lat="19.10007964" lng="72.93806076" type="bar"/>
+<marker id="7" name="location7" address="43 Macpherson Street, Bronte, location7" lat="19.17467993" lng="72.98131943" type="restaurant"/>
+<marker id="8" name="location8" address="60-64 Reservoir Street, Surry Hills, location8" lat="19.11435361" lng="72.99333572" type="restaurant"/>
+<marker id="9" name="location9" address="60 Riley Street, Darlinghurst, location9" lat="20.85367856" lng="74.29229736" type="restaurant"/>
+</markers>
